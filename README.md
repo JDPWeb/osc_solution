@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: https://github.com/JDPWeb/osc_solution
+- Live Site URL: https://jdpweb.github.io/osc_solution/
 
 ## My process
 
